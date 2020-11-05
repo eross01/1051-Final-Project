@@ -10,9 +10,9 @@ I am planning to work alone.
 
 ## Do you have any questions of your own?
 
-I have a few questions:\n
-What are some examples of website ideas that would be A level projects?
-What are some resources you recommend as we begin this project?
+I have a few questions:<br />
+What are some examples of website ideas that would be A level projects?<br />
+What are some resources you recommend as we begin this project?<br />
 Do you recommend using Visual Studio Code for this project?
 
 
