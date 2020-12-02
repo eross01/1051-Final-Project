@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Erin Ross
 
 #### Your section leader's name
 
-TODO
+Tamara Katic
 
 #### Project title
 
-TODO
+Dramartsy
 
 ***
 
@@ -26,4 +26,4 @@ TODO
 
 #### What problems, if any, have you encountered?
 
-TODO
+One of the largest problems I have encountered so far is that Windows does not recognize Apple's .HEIC file format for pictures which meant that for each picture I had to individually go into the photo editer built into the computer and save a copy as a .jpg. Although this was not difficult, it was time consuming, as the process to me over an hour to copy about 90 photos. 
