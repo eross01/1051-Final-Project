@@ -22,7 +22,7 @@ So far, I have built the structure for all of the integral parts of the site, in
 
 #### What have you not done for your project yet?
 
-The tasks I have left to finish my project are to add additional aesthetic features to make the website look more visually interesting and professional, to finish documenting each picture so that I can upload their information to my database tables, and to add a registration page to "register" for photography classes. At this point, I am not expecting to finish my "best case scenario" from my proposal (which involved making a store to "buy" photos), as I would rather take the time to perfect the rest of the website.
+The tasks I have left to finish my project are to add additional aesthetic features to make the website look more visually interesting and professional, to finish documenting each picture so that I can upload their information to my database tables, and to add a registration page to "register" for photography classes. Hopefully, I will also have time to complete my "best case scenario" from the proposal (which involved making a store to "buy" photos), although I am unsure whether I will have time to feasibly finish this.
 
 #### What problems, if any, have you encountered?
 
