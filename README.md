@@ -1,5 +1,8 @@
 # 1051-Final-Project
 
+## Video Link
+https://youtu.be/fIrSKQAxxrc
+
 ## Difficulties Faced and Overcame
 &ensp;&ensp;The largest challenges I faced while completing the project can be broken down into three categories: coding issues, misjudgement of time, and difficulties in web design. First, touching on my coding difficulties, I come from a programming background of AP Computer Science. I became comfortable with addressing hypothetical situations through code, and my only true application outside of this realm was a final game project completed at the end of the course. As a result of this, I never had to rely on existing documentation before, as there was not the concern of spending unnecessary time building a feature that someone else had already constructed and thoroughly tested. However, this is not the case when building a website with HTML, JavaScript, and CSS, as there is an abundance of tutorials and element documentation online. The project was my first introduction into taking the framework of someone else's base and applying it to my own needs. A specific example of these unique difficulties was often online documentation assumed that static html pages were going to be used. However, as I was using Flask to dynamically generate my website, I had to format my code with this structure. The process required in-depth editing to ensure that my web pages would be able to find my pictures in the correct directories, and I would be able to utilize "for" and "if" statements to avoid hardcoding information that was already stored in my database tables. Over the course of working on the project, I progressively got better at this skill.
 
