@@ -44,5 +44,8 @@ Includes the Javascript that makes the lightboxes on gallery.html possible
 ## index.js
 Includes the Javascript that makes the slideshow on index.html possible
 
+## final.db
+Includes the two tables used for the website, pictures (which stores a picutures name, caption, and file location) and tags (which stored a pictures name and a tag for that name)
+
 
 
